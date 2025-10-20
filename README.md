@@ -30,3 +30,13 @@ O **CartBot V2** é um assistente digital voltado para o setor automotivo, desen
 1. **Clone este repositório:**
    ```bash
    git clone https://github.com/PHFaria05/CartBot_V2.git
+
+🚀Melhorias adicionadas🚀
+
+1. Alteração de temas de modo claro para escuro.
+2. Função de criar novos chats.
+3. Agora é possivel copiar as mensagens da IA.
+4. Adicionado botão de excluir chat.
+5. A IA tem animação de digitando.
+6. Agora alem de criar novos chats é possivel excluir aqueles que você não precisa masis.
+
